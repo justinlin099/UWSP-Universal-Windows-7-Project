@@ -28,6 +28,7 @@
 | MSI | MEG X570S ACE MAX | 7D50v12 | :ballot_box_with_check: | :signal_strength: | :negative_squared_cross_mark: |
 | ASUS | PRIME B550M-K |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | ASUS | ProArt B550-CREATOR |  | :negative_squared_cross_mark: | :white_square_button: | :white_square_button: |
+| ASUS | ROG STRIX B550-F GAMING |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | GIGABYTE | B550 AORUS ELITE (rev. 1.0) |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 
 ### Results Status Description
