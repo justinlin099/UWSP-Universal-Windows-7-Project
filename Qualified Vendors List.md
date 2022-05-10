@@ -59,7 +59,7 @@
 | Matisse | 3xxxX,3xxx | :white_check_mark: |
 
 ### Notice: About APU Graphics 
-> AMD Removed the Official driver Core for APU(s) from 4000 series or up, so currently there's no way the integrated graphics would work in Windows 7.
+> AMD Removed the Official driver Core for APU(s) from 4000 series or up, so currently there's no way the integrated graphics would work on Windows 7.
 
 
 
