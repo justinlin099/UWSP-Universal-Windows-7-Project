@@ -3,6 +3,8 @@
 
 [主機板 Motherboard](#motherboard)
 
+[處理器 CPU](#cpu)
+
 [固態硬碟 SSD](#ssd)
 
 [無線網卡 WIFI](#wifi)
@@ -41,6 +43,23 @@
 > :negative_squared_cross_mark: : Not supported
 > 
 > :white_square_button: : Not tested
+
+
+
+
+<a name="cpu"/>
+
+## 處理器 CPU
+
+| Codename | Series | Result |
+| :---: | --- | :---: |
+| Vermeer | 5xxx,5xxxX | :white_check_mark: |
+| Cezzane | 5xxxG,5500 | :white_check_mark: |
+| Renoir | 4xxxG,4xxx | :white_check_mark: |
+| Matisse | 3xxxX,3xxx | :white_check_mark: |
+
+### Notice: About APU Graphics 
+> AMD Removed the Official driver Core for APU(s) from 4000 series or up, so currently there's no way the integrated graphics would work in Windows 7.
 
 
 
