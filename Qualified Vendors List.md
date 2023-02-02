@@ -16,7 +16,7 @@
 
 | Manufacturer | Model | Tested BIOS Ver. | Overall | Network | Sound |
 | :---: | --- | :---: | :---: | :---: | :---: |
-| MSI | X370 XPOWER GAMING TITANIUM |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| MSI | X370 XPOWER GAMING TITANIUM |  | :white_check_mark: | :white_check_mark: | :white_check_mark: ✔ |
 | MSI | B450M MORTAR TITANIUM |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | MSI | B550M PRO-VDH | 7C95v29 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
 | MSI | B550M PRO-VDH WIFI | 7C95v29 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
