@@ -1,6 +1,6 @@
 # Universal Windows 7 Project
 
-Simply Install Windows 7 on your B550 Motherboard.
+Simply Install Windows 7 on your X670/B650/X570/B550/A520 Motherboard.
 
 ## Installation Instructions:
 1.Use rufus to make a bootable Windows installation USB flash drive
@@ -25,7 +25,7 @@ Simply Install Windows 7 on your B550 Motherboard.
 5.享受你的 Windows 7！
 
 ## Supported Hardware List (QVL)
-Check the supported hardware [here](Qualified%20Vendors%20List.md).
+Check the supported hardware [here](./Qualified%20Vendors%20List.html).
 
 
 ## Support My Project:
@@ -34,6 +34,6 @@ https://shopee.tw/product/77704248/15446475873/
 
 ## Downloads
 
-Download the Installation Image from SourceForge :
+Download the Installation Image from Google Drive :
 
-[![Download Windows 7 B550 Edition](https://a.fsdn.com/con/app/sf-download-button)](https://sourceforge.net/projects/windows-7-b550-edition/files/latest/download)
+https://drive.google.com/drive/folders/1h8HjX_Ds8eEe0hTrAOsL4V6GCp-u7eaY?usp=sharing
