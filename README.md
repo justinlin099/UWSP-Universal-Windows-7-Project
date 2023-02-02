@@ -25,7 +25,7 @@ Simply Install Windows 7 on your B550 Motherboard.
 5.享受你的 Windows 7！
 
 ## Supported Hardware List (QVL)
-Check the supported hardware [here](https://github.com/justinlin099/UWSP-Universal-Windows-7-Project/blob/57f3b8b8f52aa3cc22f939027efcbaaa900e666d/Motherboard%20Qualified%20Vendors%20List.md).
+Check the supported hardware [here](Qualified%20Vendors%20List.md).
 
 
 ## Support My Project:
