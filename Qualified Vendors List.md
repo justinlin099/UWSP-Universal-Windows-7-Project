@@ -16,26 +16,26 @@
 
 | Manufacturer | Model | Tested BIOS Ver. | Overall | Network | Sound |
 | :---: | --- | :---: | :---: | :---: | :---: |
-| MSI | X370 XPOWER GAMING TITANIUM |  | :white_check_mark: | :white_check_mark: | :white_check_mark: ✔ |
-| MSI | B450M MORTAR TITANIUM |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | B550M PRO-VDH | 7C95v29 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | B550M PRO-VDH WIFI | 7C95v29 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | B550M PRO-DASH | 7C95v37 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | MAG B550 TOMAHAWK | 7C91vA5 | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | MAG B550M MORTAR |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| MSI | MAG B550M MORTAR WIFI |  | :ballot_box_with_check: | :signal_strength: | :white_check_mark: |
-| MSI | MPG B550 GAMING EDGE WIFI | 7C91v17 | :ballot_box_with_check: | :signal_strength: | :white_check_mark: |
-| MSI | MPG B550I GAMING EDGE WIFI | 7C92v16 | :ballot_box_with_check: | :signal_strength: | :white_check_mark: |
-| MSI | MEG B550 UNIFY | 7D13v13 | :ballot_box_with_check: | :signal_strength: | :white_check_mark: |
-| MSI | MEG X570S ACE MAX | 7D50v12 | :ballot_box_with_check: | :signal_strength: | :white_check_mark: |
-| ASUS | PRIME B550M-K |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| MSI | X370 XPOWER GAMING TITANIUM |  | ✅ | ✅ | ✅ |
+| MSI | B450M MORTAR TITANIUM |  | ✅ | ✅ | ✅ |
+| MSI | B550M PRO-VDH | 7C95v29 | ✅ | ✅ | ✅ |
+| MSI | B550M PRO-VDH WIFI | 7C95v29 | ✅ | ✅ | ✅ |
+| MSI | B550M PRO-DASH | 7C95v37 | ✅ | ✅ | ✅ |
+| MSI | MAG B550 TOMAHAWK | 7C91vA5 | ✅ | ✅ | ✅ |
+| MSI | MAG B550M MORTAR |  | ✅ | ✅ | ✅ |
+| MSI | MAG B550M MORTAR WIFI |  | :ballot_box_with_check: | :signal_strength: | ✅ |
+| MSI | MPG B550 GAMING EDGE WIFI | 7C91v17 | :ballot_box_with_check: | :signal_strength: | ✅ |
+| MSI | MPG B550I GAMING EDGE WIFI | 7C92v16 | :ballot_box_with_check: | :signal_strength: | ✅ |
+| MSI | MEG B550 UNIFY | 7D13v13 | :ballot_box_with_check: | :signal_strength: | ✅ |
+| MSI | MEG X570S ACE MAX | 7D50v12 | :ballot_box_with_check: | :signal_strength: | ✅ |
+| ASUS | PRIME B550M-K |  | ✅ | ✅ | ✅ |
 | ASUS | ProArt B550-CREATOR |  | :negative_squared_cross_mark: | :white_square_button: | :white_square_button: |
-| ASUS | ROG STRIX B550-F GAMING |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| ASUS | PRIME B550-PLUS |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
-| GIGABYTE | B550 AORUS ELITE (rev. 1.0) |  | :white_check_mark: | :white_check_mark: | :white_check_mark: |
+| ASUS | ROG STRIX B550-F GAMING |  | ✅ | ✅ | ✅ |
+| ASUS | PRIME B550-PLUS |  | ✅ | ✅ | ✅ |
+| GIGABYTE | B550 AORUS ELITE (rev. 1.0) |  | ✅ | ✅ | ✅ |
 
 ### Results Status Description
-> :white_check_mark: : Fully supported
+> ✅ : Fully supported
 > 
 > :ballot_box_with_check: : Partially supported
 > 
@@ -54,10 +54,10 @@
 
 | Codename | Series | Result |
 | :---: | --- | :---: |
-| Vermeer | 5xxx,5xxxX | :white_check_mark: |
-| Cezzane | 5xxxG,5500 | :white_check_mark: |
-| Renoir | 4xxxG,4xxx | :white_check_mark: |
-| Matisse | 3xxxX,3xxx | :white_check_mark: |
+| Vermeer | 5xxx,5xxxX | ✅ |
+| Cezzane | 5xxxG,5500 | ✅ |
+| Renoir | 4xxxG,4xxx | ✅ |
+| Matisse | 3xxxX,3xxx | ✅ |
 
 ### Notice: About APU Graphics 
 > AMD Removed the Official driver Core for APU(s) from 4000 series or up, so currently there's no way the integrated graphics would work on Windows 7.
@@ -71,9 +71,9 @@
 
 | Manufacturer | Model | Result |
 | :---: | --- | :---: |
-| WD | SN530 512G | :white_check_mark: |
-| ADATA | SX8200Pro 512G | :white_check_mark: |
-| ADATA | SX8200Pro 1T | :white_check_mark: |
+| WD | SN530 512G | ✅ |
+| ADATA | SX8200Pro 512G | ✅ |
+| ADATA | SX8200Pro 1T | ✅ |
 | Intel | 760P 512G | :negative_squared_cross_mark: |
 
 
@@ -86,5 +86,5 @@
 | :---: | --- | :---: |
 | Intel | AX200 | :negative_squared_cross_mark: |
 | Intel | AX210 | :negative_squared_cross_mark: |
-| Intel | AC3168 | :white_check_mark: |
-| Realtek | RTL8822BE | :white_check_mark: |
+| Intel | AC3168 | ✅ |
+| Realtek | RTL8822BE | ✅ |
