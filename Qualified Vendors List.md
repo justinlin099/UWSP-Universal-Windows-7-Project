@@ -23,13 +23,13 @@
 | MSI | B550M PRO-DASH | 7C95v37 | ✅ | ✅ | ✅ |
 | MSI | MAG B550 TOMAHAWK | 7C91vA5 | ✅ | ✅ | ✅ |
 | MSI | MAG B550M MORTAR |  | ✅ | ✅ | ✅ |
-| MSI | MAG B550M MORTAR WIFI |  | :ballot_box_with_check: | :signal_strength: | ✅ |
-| MSI | MPG B550 GAMING EDGE WIFI | 7C91v17 | :ballot_box_with_check: | :signal_strength: | ✅ |
-| MSI | MPG B550I GAMING EDGE WIFI | 7C92v16 | :ballot_box_with_check: | :signal_strength: | ✅ |
-| MSI | MEG B550 UNIFY | 7D13v13 | :ballot_box_with_check: | :signal_strength: | ✅ |
-| MSI | MEG X570S ACE MAX | 7D50v12 | :ballot_box_with_check: | :signal_strength: | ✅ |
+| MSI | MAG B550M MORTAR WIFI |  | ☑️ |📶 | ✅ |
+| MSI | MPG B550 GAMING EDGE WIFI | 7C91v17 | ☑️ |📶 | ✅ |
+| MSI | MPG B550I GAMING EDGE WIFI | 7C92v16 | ☑️ |📶 | ✅ |
+| MSI | MEG B550 UNIFY | 7D13v13 | ☑️ |📶 | ✅ |
+| MSI | MEG X570S ACE MAX | 7D50v12 | ☑️ |📶 | ✅ |
 | ASUS | PRIME B550M-K |  | ✅ | ✅ | ✅ |
-| ASUS | ProArt B550-CREATOR |  | :negative_squared_cross_mark: | :white_square_button: | :white_square_button: |
+| ASUS | ProArt B550-CREATOR |  | ❌ |  |  |
 | ASUS | ROG STRIX B550-F GAMING |  | ✅ | ✅ | ✅ |
 | ASUS | PRIME B550-PLUS |  | ✅ | ✅ | ✅ |
 | GIGABYTE | B550 AORUS ELITE (rev. 1.0) |  | ✅ | ✅ | ✅ |
@@ -37,13 +37,11 @@
 ### Results Status Description
 > ✅ : Fully supported
 > 
-> :ballot_box_with_check: : Partially supported
+> ☑️ : Partially supported
 > 
-> :signal_strength: : Need to change Wi-Fi card with supported model
+>📶 : Need to change Wi-Fi card with supported model
 > 
-> :negative_squared_cross_mark: : Not supported
-> 
-> :white_square_button: : Not tested
+>❌ : Not supported
 
 
 
@@ -74,7 +72,7 @@
 | WD | SN530 512G | ✅ |
 | ADATA | SX8200Pro 512G | ✅ |
 | ADATA | SX8200Pro 1T | ✅ |
-| Intel | 760P 512G | :negative_squared_cross_mark: |
+| Intel | 760P 512G | ❌ |
 
 
 
@@ -84,7 +82,7 @@
 
 | Manufacturer | Model | Result |
 | :---: | --- | :---: |
-| Intel | AX200 | :negative_squared_cross_mark: |
-| Intel | AX210 | :negative_squared_cross_mark: |
+| Intel | AX200 | ❌ |
+| Intel | AX210 | ❌ |
 | Intel | AC3168 | ✅ |
 | Realtek | RTL8822BE | ✅ |
