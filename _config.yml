@@ -7,7 +7,5 @@ plugins:
 title: Universal Windows 7 Project
 description: 在最新的 AMD 7000 系列硬體上安裝 Windows 7
 
-github:
-  is_project_page: false
   
 show_downloads: false
