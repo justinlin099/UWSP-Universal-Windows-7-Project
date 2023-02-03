@@ -34,6 +34,6 @@ https://shopee.tw/product/77704248/15446475873/
 
 ## Downloads
 
-Download the Installation Image from Google Drive :
+Download the Installation Image from [Google Drive](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)
 
-https://drive.google.com/drive/folders/1h8HjX_Ds8eEe0hTrAOsL4V6GCp-u7eaY?usp=sharing
+
