@@ -1,8 +1,7 @@
-[<Back](https://uwsp.justinl.in/)
+[< 上一頁 Back](https://uwsp.justinl.in/)
 
-<a href="{{ site.github.repository_url }}" class="btn">View on GitHub</a>
 
-# Universal Windows 7 Project Qualified Vendors List
+# UWSP Qualified Vendors List 硬體測試清單
 
 
 [主機板 Motherboard](#motherboard)
@@ -56,6 +55,7 @@
 
 | Codename | Series | Result |
 | :---: | --- | :---: |
+| Raphael | 7xxx,7xxxX3D | ✅ |
 | Vermeer | 5xxx,5xxxX | ✅ |
 | Cezzane | 5xxxG,5500 | ✅ |
 | Renoir | 4xxxG,4xxx | ✅ |
