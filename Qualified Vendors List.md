@@ -1,7 +1,7 @@
 [< 上一頁 Back](https://uwsp.justinl.in/)
 
 
-# UWSP Qualified Vendors List 硬體測試清單
+# UWSP 硬體測試清單 Qualified Vendors List
 
 
 [主機板 Motherboard](#motherboard)
