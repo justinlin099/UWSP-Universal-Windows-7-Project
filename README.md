@@ -2,29 +2,12 @@
 
 Simply Install Windows 7 on your X670/B650/X570/B550/A520 Motherboard.
 
-## Installation Instructions:
-1.Use rufus to make a bootable Windows installation USB flash drive
+## 安裝說明 Installation Guide
+安裝說明在[這裡](./Guide.html)
+Check installation guide [here](./Guide.html).
 
-2.Install Windows 7 to your own B550 Motherboard(Turn On CSM for NVIDIA GPU)
-
-3.No need to download wufuc anymore,which is already intergrated in the system.
-
-4.Install other drivers (WLAN,Graphis Card etc.)
-
-5.Enjoy your windows 7 !
-
-## 安裝步驟：
-1.使用rufus製作Windows安裝隨身碟
-
-2.使用隨身碟將Windows 7安裝到自己的B550主機板上(Turn On CSM for NVIDIA GPU)
-
-3.不需要再下載wufuc了，該程式已經內建在系統當中
-
-4.安裝其他驅動程式（無線網路、顯示卡等）
-
-5.享受你的 Windows 7！
-
-## Supported Hardware List (QVL)
+## 支援的硬體清單 Supported Hardware List (QVL)
+支援的硬體清單在[這裡](./Qualified%20Vendors%20List.html)
 Check the supported hardware [here](./Qualified%20Vendors%20List.html).
 
 
