@@ -43,12 +43,20 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
    >[UWSP installation ISO image](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)
 
 
-## 安裝步驟 Installation step
+## 安裝步驟 Installation steps
 1. 準備一支要拿來灌系統的 USB 隨身碟（容量 8GB 以上），並且備份所有資料（原本內部的資料會全部清除）  
    >Prepare an USB flash drive(8GB or up) and backup all the files in it(All the data in the flash drive will be wiped).  
-2. 插入隨身碟並開啟Rufus  
+2. 插入隨身碟並開啟 Rufus  
    >Insert the USB flash drive and open Rufus.  
 3. 在裝置部分選擇你的隨身碟，開機模式的檔案選擇你下載下來的 UWSP ISO，其他選項保留預設（如圖所示）  
    >Select your USB flash drive in the "Device" option, select UWSP ISO in the "Boot selection" option, other options remain default(as shown in the screenshot).  
    ><img src="https://user-images.githubusercontent.com/61717681/218296980-d48066de-1103-4b68-8334-7ef6ad015c87.jpg" width="418">
+4. 按下執行開始寫入映像
+   >Click START button to start writing the ISO image.  
+   ><img src="https://user-images.githubusercontent.com/61717681/218297124-f328a101-0735-4f49-8aef-2eaa6a82a3ae.jpg" width="418">  
+   ><img src="https://user-images.githubusercontent.com/61717681/218297143-0f697498-b28e-4e34-90d5-83edd545b5df.jpg" width="418">  
+5. 在要安裝的系統開機時按下 `del` 鍵進入 BIOS  
+   >Press `del` button to enter the BIOS in the targeted system.  
+   ><img src="https://user-images.githubusercontent.com/61717681/218298091-b9e10708-cd06-4c2d-8901-e0915a256e46.jpg" width="960">
+   
 
