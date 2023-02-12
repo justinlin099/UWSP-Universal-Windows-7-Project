@@ -37,10 +37,18 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
 
 
 ## 需要預先下載的東西 Things need to download first
-1. 安裝隨身碟製作工具 [Rufus](https://rufus.ie/)
+1. 安裝隨身碟製作工具 [Rufus](https://rufus.ie/)  
    >Bootable Media Creation Tool [Rufus](https://rufus.ie/)
-2. [UWSP 安裝映像檔](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)
+2. [UWSP 安裝映像檔](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)  
    >[UWSP installation ISO image](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)
 
 
+## 安裝步驟 Installation step
+1. 準備一支要拿來灌系統的 USB 隨身碟（容量 8GB 以上），並且備份所有資料（原本內部的資料會全部清除）  
+   >Prepare an USB flash drive(8GB or up) and backup all the files in it(All the data in the flash drive will be wiped).  
+2. 插入隨身碟並開啟Rufus  
+   >Insert the USB flash drive and open Rufus.  
+3. 在裝置部分選擇你的隨身碟，開機模式的檔案選擇你下載下來的 UWSP ISO，其他選項保留預設（如圖所示）  
+   >Select your USB flash drive in the "Device" option, select UWSP ISO in the "Boot selection" option, other options remain default(as shown in the screenshot).  
+   ><img src="https://user-images.githubusercontent.com/61717681/218296980-d48066de-1103-4b68-8334-7ef6ad015c87.jpg" width="418">
 
