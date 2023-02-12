@@ -3,7 +3,7 @@
 # 安裝說明 Installation Guide
 
 ## 硬體挑選 Hardware Selection
-測試過的硬體可以參考[硬體測試清單](https://github.com/justinlin099/UWSP-Universal-Windows-7-Project/blob/main/Qualified%20Vendors%20List.html)   
+測試過的硬體可以參考[硬體測試清單](https://github.com/justinlin099/UWSP-Universal-Windows-7-Project/blob/main/Qualified%20Vendors%20List.html)。   
 Check tested hardware [here](./Qualified%20Vendors%20List.html).
 
 >我大部分的主機板都是 msi 的，如果現在買不到清單上的硬體的話也盡量挑選 msi 的比較不會有相容性問題。  
@@ -14,51 +14,89 @@ Check tested hardware [here](./Qualified%20Vendors%20List.html).
 目前沒有任何驅動程式支援 Wi-Fi 6 的網路卡(AX200/AX210)，所以如果需要主機板的無線功能的話就必須更換板子上的網路卡。  
 There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so if you need the wireless function on the motherboard, you must replace the Wi-Fi card on the board.
 
->注意：每張板子的設計可能不一樣，更換時請務必小心  
+>注意：每張板子的設計可能不一樣，更換時請務必小心。  
 >Caution: Step may vary by each Motherboard, always be careful when you modifying any electronic devices.
 
-1. 拆下主機板上的 IO 裝甲  
+1. 拆下主機板上的 IO 裝甲。  
    Remove the IO shield on the motherboard.  
+   
    <img src="https://user-images.githubusercontent.com/61717681/218054065-cb3e19da-858e-47b8-ae7d-86349bfb515e.png" width="400">
-2. 拆下網卡背面的螺絲並移除網路卡  
+   
+2. 拆下網卡背面的螺絲並移除網路卡。  
    Unscrew the Wi-Fi Card and Remove it from the motherboard.  
    
    <img src="https://user-images.githubusercontent.com/61717681/218056023-cd05e17a-f901-4c01-97e6-cac5339bb953.png" width="400">  
    <img src="https://user-images.githubusercontent.com/61717681/218056279-b042e0e3-916b-4258-b58c-191755dc59dd.png" width="400">  
-3. 拆開屏蔽罩並且更換裡面的網路卡
-   >Open the shell and replace the Wi-Fi card.  
-   ><img src="https://user-images.githubusercontent.com/61717681/218056948-fca9e84d-d812-4f51-9ed0-8ab2a0890b74.png" width="400">
-4. 照著原本的步驟把東西裝回去 
-   >Follow the original steps to put things back together.
-5. 讚讚！你現在有一張完全支援 Windows 7 的主機板了！
-   >Ta da! You now have a motherboard that fully supports Windows 7!
+   
+3. 拆開屏蔽罩並且更換裡面的網路卡。  
+   Open the shell and replace the Wi-Fi card.  
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218056948-fca9e84d-d812-4f51-9ed0-8ab2a0890b74.png" width="400">  
+   
+4. 照著原本的步驟把東西裝回去。  
+   Follow the original steps to put things back together.  
+   
+5. 讚讚！你現在有一張完全支援 Windows 7 的主機板了！  
+   Ta da! You now have a motherboard that fully supports Windows 7!  
   
 
 
 
 
 ## 需要預先下載的東西 Things need to download first
-1. 安裝隨身碟製作工具 [Rufus](https://rufus.ie/)  
-   >Bootable Media Creation Tool [Rufus](https://rufus.ie/)
-2. [UWSP 安裝映像檔](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)  
-   >[UWSP installation ISO image](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)
+1. 安裝隨身碟製作工具 [Rufus](https://rufus.ie/)。  
+   Bootable Media Creation Tool [Rufus](https://rufus.ie/)  
+   
+2. [UWSP 安裝映像檔](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)。  
+   [UWSP installation ISO image](https://drive.google.com/drive/folders/1iYQWDN9JloSDOoZpD-azCkSLe84VzKvz?usp=sharing)  
 
 
 ## 安裝步驟 Installation steps
-1. 準備一支要拿來灌系統的 USB 隨身碟（容量 8GB 以上），並且備份所有資料（原本內部的資料會全部清除）  
-   >Prepare an USB flash drive(8GB or up) and backup all the files in it(All the data in the flash drive will be wiped).  
-2. 插入隨身碟並開啟 Rufus  
-   >Insert the USB flash drive and open Rufus.  
-3. 在裝置部分選擇你的隨身碟，開機模式的檔案選擇你下載下來的 UWSP ISO，其他選項保留預設（如圖所示）  
-   >Select your USB flash drive in the "Device" option, select UWSP ISO in the "Boot selection" option, other options remain default(as shown in the screenshot).  
-   ><img src="https://user-images.githubusercontent.com/61717681/218296980-d48066de-1103-4b68-8334-7ef6ad015c87.jpg" width="418">
-4. 按下執行開始寫入映像
-   >Click START button to start writing the ISO image.  
-   ><img src="https://user-images.githubusercontent.com/61717681/218297124-f328a101-0735-4f49-8aef-2eaa6a82a3ae.jpg" width="418">  
-   ><img src="https://user-images.githubusercontent.com/61717681/218297143-0f697498-b28e-4e34-90d5-83edd545b5df.jpg" width="418">  
-5. 在要安裝的系統開機時按下 `del` 鍵進入 BIOS  
-   >Press `del` button to enter the BIOS in the targeted system.  
-   ><img src="https://user-images.githubusercontent.com/61717681/218298091-b9e10708-cd06-4c2d-8901-e0915a256e46.jpg" width="960">
-6. 在 BIOS 內找到 CSM/UEFI 模式選項，並且選擇開啟 CSM 模式
+1. 準備一支要拿來灌系統的 USB 隨身碟（容量 8GB 以上），並且備份所有資料（原本內部的資料會全部清除）。  
+   Prepare an USB flash drive(8GB or up) and backup all the files in it(All the data in the flash drive will be wiped).  
    
+2. 插入隨身碟並開啟 Rufus。  
+   Insert the USB flash drive and open Rufus.  
+   
+3. 在裝置部分選擇你的隨身碟，開機模式的檔案選擇你下載下來的 UWSP ISO，其他選項保留預設（如圖所示）。  
+   Select your USB flash drive in the "Device" option, select UWSP ISO in the "Boot selection" option, other options remain default(as shown in the screenshot).   
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218296980-d48066de-1103-4b68-8334-7ef6ad015c87.jpg" width="418">  
+   
+4. 按下執行開始寫入映像。  
+   Click START button to start writing the ISO image.  
+  
+   <img src="https://user-images.githubusercontent.com/61717681/218297124-f328a101-0735-4f49-8aef-2eaa6a82a3ae.jpg" width="418">  
+   <img src="https://user-images.githubusercontent.com/61717681/218297143-0f697498-b28e-4e34-90d5-83edd545b5df.jpg" width="418">  
+   
+5. 插入安裝隨身碟並且開機，在開機時長按 `del` 鍵進入 BIOS。  
+   Insert USB flash drive and power on the computer, long press `del` button to enter the BIOS.  
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218298091-b9e10708-cd06-4c2d-8901-e0915a256e46.jpg" width="960">  
+   
+6. 在 BIOS 內找到 CSM/UEFI 模式選項，並且選擇開啟 CSM 模式。  
+   Find BIOS CSM/UEFI Mode option and select CSM Mode.  
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218299065-39880ce5-5e4f-47f3-ab63-c3f9a8f50df6.jpg" width="960">  
+  
+   >不同家主機板廠商的選項名稱可能不同。  
+   >The name of the option may vary by each motherboard manufacturer.  
+   
+7. 按下 `F10` 儲存選項並退出。  
+   Press `F10` to save and exit BIOS.  
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218299260-3d5af3d8-8e9d-4159-8c95-03f8b08a731b.jpg" width="960">  
+   
+8. 退出後長按開機選單鍵進入開機選單。  
+   After exit the setup, long press boot menu hotkey to enter boot menu.
+   >開機選單鍵 Boot Menu Hotkey:  
+   >msi: `F11`  
+   >ASUS: `F8`  
+   >GIGABYTE: `F12`  
+
+   <img src="https://user-images.githubusercontent.com/61717681/218303812-aa784f59-b4a4-477b-a6aa-3fb7c332de5b.jpg" width="960">  
+   
+9. 選取你的隨身碟（名稱通常為 UEFI:"隨身碟的型號"）並按下 `ENTER` 。  
+   Select your USB flash drive(Usually displayed as UEFI:"the model of the USB flash drive") and press `ENTER`.  
+
 
