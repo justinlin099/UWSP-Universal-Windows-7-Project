@@ -71,6 +71,8 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
    
 5. 插入安裝隨身碟並且開機，在開機時長按 `del` 鍵進入 BIOS。  
    Insert USB flash drive and power on the computer, long press `del` button to enter the BIOS.  
+   >注意：安裝時請勿在主機板上的 USB 2.0 插孔插入任何裝置，否則會造成藍屏  
+   >Caution: Please don't use any USB 2.0 port while you install the system(keyboard, mouse, USB Flash Drive, etc.), otherwise it might cause BSOD.  
    
    <img src="https://user-images.githubusercontent.com/61717681/218298091-b9e10708-cd06-4c2d-8901-e0915a256e46.jpg" width="960">  
    
@@ -98,5 +100,72 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
    
 9. 選取你的隨身碟（名稱通常為 UEFI:"隨身碟的型號"）並按下 `ENTER` 。  
    Select your USB flash drive(Usually displayed as UEFI:"the model of the USB flash drive") and press `ENTER`.  
+   
+10. 進入安裝畫面後按下 `下一步`。  
+    Press `Next` when you entered the Windows Setup screen.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218304612-2505df9b-faf1-4116-ab9b-331be4f337be.jpg" width="960">  
+    
+11. 按下 `立即安裝`。  
+    Press `Install Now`.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218304730-220f6b40-554a-427a-bc40-c9aa47e9af62.jpg" width="960">  
+    
+12. 按下 `我沒有產品金鑰`。  
+    Select `I don't have product key`.  
+   
+    <img src="https://user-images.githubusercontent.com/61717681/218304893-b01b934e-7bbe-4848-ba26-47735fe58a85.jpg" width="960">  
+     
+13. 選擇你想安裝的 Windows 7 版本。  
+    Select the Windows 7 edition you want to install.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218304972-c13ed817-7026-468c-bae5-c0ebdf5ef866.jpg" width="960">  
+    
+14. 同意軟體授權條款。  
+    Accept to the EULA.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305062-f33dd5bf-0a59-46d4-8a8d-72d9563b8286.jpg" width="960">  
+    
+15. 選擇自訂安裝。  
+    Select custom install.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305139-e11d4892-755b-48d6-b95e-491fcf769d20.jpg" width="960">  
+    
+16. 選擇你要安裝系統的分區並且按 `下一步`。  
+    Select the partition that you want to install the system and press `Next`.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305259-3e5aee94-1eae-4756-899c-5362a7269da0.jpg" width="960">  
+
+17. 請靜待系統安裝完成。（大約需要五分鐘）  
+    Please wait the system to install. (About 5 mins.)  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305427-18053c0b-8f4f-4c03-8383-f7180fbf5b37.jpg" width="960">  
+    
+18. 依據指示設定裝置。  
+    Setup the device according to the instructions.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305490-1d61c46a-7e40-4126-a628-4107071cd50b.jpg" width="960">  
+    
+19. 等待 Windows 完成設定。（大約需要四分鐘）  
+    Wait Windows to complete the setup. (About 4 mins.)
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305571-10c32090-5145-43ea-ad5b-7ed2caa2f025.jpg" width="960">  
+
+20. 安裝顯示卡驅動及瀏覽器等程式就完成了。  
+    Install GPU Driver and browser.  
+    
+    <img src="https://user-images.githubusercontent.com/61717681/218305809-5dc5e233-1c4a-4b70-acc9-98919f982824.jpg" width="480">
+    <img src="https://user-images.githubusercontent.com/61717681/218305813-a7cb2f2e-a992-4c64-b27d-e7bfc4589ccb.jpg" width="480">  
+    <img src="https://user-images.githubusercontent.com/61717681/218305828-de2eea67-6a5f-4fba-80aa-9956c3252a01.jpg" width="480">
+    <img src="https://user-images.githubusercontent.com/61717681/218305841-e6cbf65e-efef-404c-abb9-8163541e036e.jpg" width="480">  
+    <img src="https://user-images.githubusercontent.com/61717681/218305856-b47dd95d-737d-4309-939c-997de0c6aa8f.jpg" width="960">
+
+
+
+    
+
+
+   
+
 
 
