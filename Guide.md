@@ -17,13 +17,14 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
 >注意：每張板子的設計可能不一樣，更換時請務必小心  
 >Caution: Step may vary by each Motherboard, always be careful when you modifying any electronic devices.
 
-1. 拆下主機板上的 IO 裝甲
-   >Remove the IO shield on the motherboard.  
-   ><img src="https://user-images.githubusercontent.com/61717681/218054065-cb3e19da-858e-47b8-ae7d-86349bfb515e.png" width="400">
-2. 拆下網卡背面的螺絲並移除網路卡
-   >Unscrew the Wi-Fi Card and Remove it from the motherboard.  
-   ><img src="https://user-images.githubusercontent.com/61717681/218056023-cd05e17a-f901-4c01-97e6-cac5339bb953.png" width="400">  
-   ><img src="https://user-images.githubusercontent.com/61717681/218056279-b042e0e3-916b-4258-b58c-191755dc59dd.png" width="400">
+1. 拆下主機板上的 IO 裝甲  
+   Remove the IO shield on the motherboard.  
+   <img src="https://user-images.githubusercontent.com/61717681/218054065-cb3e19da-858e-47b8-ae7d-86349bfb515e.png" width="400">
+2. 拆下網卡背面的螺絲並移除網路卡  
+   Unscrew the Wi-Fi Card and Remove it from the motherboard.  
+   
+   <img src="https://user-images.githubusercontent.com/61717681/218056023-cd05e17a-f901-4c01-97e6-cac5339bb953.png" width="400">  
+   <img src="https://user-images.githubusercontent.com/61717681/218056279-b042e0e3-916b-4258-b58c-191755dc59dd.png" width="400">  
 3. 拆開屏蔽罩並且更換裡面的網路卡
    >Open the shell and replace the Wi-Fi card.  
    ><img src="https://user-images.githubusercontent.com/61717681/218056948-fca9e84d-d812-4f51-9ed0-8ab2a0890b74.png" width="400">
@@ -58,5 +59,6 @@ There is currently no driver supporting Wi-Fi 6 network cards (AX200/AX210), so 
 5. 在要安裝的系統開機時按下 `del` 鍵進入 BIOS  
    >Press `del` button to enter the BIOS in the targeted system.  
    ><img src="https://user-images.githubusercontent.com/61717681/218298091-b9e10708-cd06-4c2d-8901-e0915a256e46.jpg" width="960">
+6. 在 BIOS 內找到 CSM/UEFI 模式選項，並且選擇開啟 CSM 模式
    
 
