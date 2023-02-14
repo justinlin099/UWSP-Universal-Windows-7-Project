@@ -1,0 +1,6 @@
+Windows Registry Editor Version 5.00
+
+[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
+"Manufacturer"="JustinLin099"
+"Model"="Universal Windows 7 Project V4.1"
+"SupportURL"="https://uwsp.justinl.in/"
